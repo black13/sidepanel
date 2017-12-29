@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sidepanel.qml</file>
+		<file>images/qt-logo.png</file>
+		<file>images/qt-logo@2x.png</file>
+		<file>images/qt-logo@3x.png</file>
+		<file>images/qt-logo@4x.png</file>
+    </qresource>
+</RCC>
